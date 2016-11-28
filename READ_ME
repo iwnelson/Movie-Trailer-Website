@@ -1,0 +1,1 @@
+To properly run this program, download media.py, entertainment_center.py, and fresh_tomatoes.py to the same directory. Then, run the entertainment_center.py program. This will create a file called fresh_tomatoes.html in the same directory as the entertainment_center.py file and open it in your web browser. This html file contains the website. Enjoy!
